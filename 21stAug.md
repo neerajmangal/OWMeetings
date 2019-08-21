@@ -1,4 +1,4 @@
-# Openwhisk Tech Interchange Meeting - 21st August 
+# Openwhisk Tech Interchange Meeting - 21st August
 
 # Agenda
 
@@ -31,10 +31,10 @@
     <summary>apache/openwhisk-apigateway</summary>
 
     - Updated:
-      - #345 - container cannot resolve `http://host.docker.internal` (rabbah)
+      - [#345](https://github.com/apache/openwhisk-apigateway/pull/345) - container cannot resolve `http://host.docker.internal` (rabbah)
     - Pull Requests
       - Merged:
-        - #353 - OAuth fixes and improvements (mhamann)
+        - [#353](https://github.com/apache/openwhisk-apigateway/pull/353) - OAuth fixes and improvements (mhamann)
   </details>  
 
   <details>
@@ -42,8 +42,8 @@
 
     - Pull Requests
       - Merged:
-        - #507 - Version bumps on tested Kubernetes versions (dgrove-oss)
-        - #506 - use extraEnvVars to set __OW_ALLOW_CONCURRENT (dgrove-oss)
+        - [#507](https://github.com/apache/openwhisk-deploy-kube/pull/507) - Version bumps on tested Kubernetes versions (dgrove-oss)
+        - [#506](https://github.com/apache/openwhisk-deploy-kube/pull/506) - use extraEnvVars to set __OW_ALLOW_CONCURRENT (dgrove-oss)
   </details>
 
   <details>
@@ -52,8 +52,8 @@
     - Pull Requests
       - Merged:
       - Created:
-        - #33 - build action loop from git (sciabarracom
-        - #32 - Add badges. (rabbah)
+        - [#33](https://github.com/apache/openwhisk-runtime-ruby/pull/33) - build action loop from git (sciabarracom
+        - [#32](https://github.com/apache/openwhisk-runtime-ruby/pull/32) - Add badges. (rabbah)
   </details>
 
   <details>
@@ -61,7 +61,7 @@
 
     - Issues
       - Updated:
-        - #312 - Add &quot;OpenShift&quot; to Home page as supported deployment option (mrutkows)
+        - [#312](https://github.com/apache/openwhisk-website/pull/312) - Add &quot;OpenShift&quot; to Home page as supported deployment option (mrutkows)
     - Pull Requests
       - Merged:
         - #405, #401, #402, #403, #404 - remove incubator- prefix (dgrove-oss)
